@@ -1,6 +1,8 @@
 module github.com/git-pkgs/gcs
 
-go 1.26.7
+go 1.26
+
+toolchain go1.26.7
 
 require (
 	cloud.google.com/go/compute/metadata v0.9.0
