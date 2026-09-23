@@ -47,4 +47,4 @@ Set `STORAGE_EMULATOR_HOST` to the address of a Cloud Storage emulator. The valu
 
 ## License
 
-MIT
+[MIT](LICENSE).
