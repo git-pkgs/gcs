@@ -5,8 +5,8 @@ go 1.26.0
 toolchain go1.26.7
 
 require (
-	cloud.google.com/go/compute/metadata v0.9.0
+	cloud.google.com/go/compute/metadata v0.9.1
 	golang.org/x/oauth2 v0.37.0
 )
 
-require golang.org/x/sys v0.35.0 // indirect
+require golang.org/x/sys v0.46.0 // indirect
